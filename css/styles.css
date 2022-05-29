@@ -1,0 +1,23 @@
+h1 {
+  color : BlueViolet;
+}
+h2{
+  color : GhostWhite;
+}
+h3{
+  color : GhostWhite;
+}
+body {
+  background-color : #121212;
+}
+
+#links{
+  color : #FF1493;
+  text-decoration : none;
+}
+#tableLoot{
+  color : #FFD700;
+}
+#tableTitle{
+  color : LimeGreen;
+}
